@@ -1,5 +1,5 @@
 # Starter Web Project
- 
+This is a simple project to exlain the working of GIT and GITHUB !!! 
  
  
  
