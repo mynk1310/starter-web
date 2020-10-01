@@ -1,9 +1,20 @@
-#Starter Web Project
+# Starter Web Project
  
-##Introducton
+ This is a simple website explaining the use of GIT and GITHUB !!! 
+ 
+ 
+## Introducton
 
-##Purpose
 
-##Deployment
 
-##How to contribute
+
+## Purpose
+
+
+
+## Deployment
+
+
+
+## How to contribute
+
